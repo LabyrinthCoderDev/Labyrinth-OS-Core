@@ -1,0 +1,18 @@
+{
+  "spec_version": "1.0",
+  "generated_at": 1778846384.4211905,
+  "all_passed": true,
+  "passed": 20,
+  "failed": 0,
+  "provenance": "[REAL] z3_sovereignty_spec.py \u2014 22 proofs verified",
+  "sovereignty_claims": [
+    "SC1: Gate decisions are final",
+    "SC2: No proposal bypasses the pipeline",
+    "SC3: Every decision is logged",
+    "SC4: The ledger is append-only",
+    "SC5: Replay reproduces identical decisions"
+  ],
+  "z3_verified": true,
+  "proof_reference": "sigma_anchors_A021_z3_proven",
+  "sha256": "1468d76054ef44b8f482742b80dd970e04c664957d7a8adbab3ab694b18956b9"
+}
