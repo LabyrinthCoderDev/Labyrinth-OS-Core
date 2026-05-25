@@ -1,0 +1,14 @@
+{
+  "spec_version": "1.0",
+  "generated_at": 1778846288.576145,
+  "sovereignty_claims": [
+    "SC1: Gate decisions are final and non-negotiable",
+    "SC2: No proposal may bypass the constitutional pipeline",
+    "SC3: Every decision is logged to a tamper-evident chain",
+    "SC4: The ledger is append-only and immutable",
+    "SC5: Replay must reproduce identical decisions"
+  ],
+  "z3_verified": true,
+  "proof_reference": "sigma_anchors_A021_z3_proven",
+  "sha256": "1468d76054ef44b8f482742b80dd970e04c664957d7a8adbab3ab694b18956b9"
+}

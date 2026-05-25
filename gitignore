@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Testing
+.pytest_cache/
+.hypothesis/
+*.hypothesis
+htmlcov/
+.coverage
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated at runtime — do not commit
+sysinfo.json
+sovereignty_receipt.json
+execution/cgir/formal/sovereignty_receipt.json
+ignition_session_*.json
+proof_artifact_*.json
+ve_run_*.log
+*.lock
+
+# Rust (if crates are added)
+target/
+Cargo.lock

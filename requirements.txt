@@ -1,0 +1,9 @@
+# Labyrinth-OS Sentinel-Core
+# Install before running tests:
+#   python -m pip install -r requirements.txt
+
+# Required — Z3 SMT solver for formal proof tests
+z3-solver>=4.12.0
+
+# Required — property-based testing
+hypothesis>=6.0.0
